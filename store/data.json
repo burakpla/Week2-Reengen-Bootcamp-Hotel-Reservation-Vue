@@ -1,0 +1,41 @@
+{
+  "hotel": [
+    {
+      "id": 1,
+      "name": "Rixos Hotel",
+      "price": 10000,
+      "description": "Your comfort is our duty!",
+      "star": "5",
+      "location": "Bodrum",
+      "imageUrl": "https://cdng.jollytur.com/files/cms/media/hotel/eca014fb-4539-419a-81e7-d0e3d741aa81-600.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Vogue Hotel",
+      "price": 10000,
+      "description": "Live your dreams with us! ",
+      "star": "5",
+      "location": "Bodrum",
+      "imageUrl": "https://cdng.jollytur.com/files/cms/media/hotel/760c2d79-18fc-49ca-8786-94aeecaaa822-600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sungate Hotel",
+      "price": 10000,
+      "description": "Feel the holiday! ",
+      "star": "5",
+      "location": "Antalya",
+      "imageUrl": "https://cdng.jollytur.com/files/cms/media/hotel/8fb4ceff-03a7-4a4e-9617-e3e4e6ca828e-600.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MaxxRoyal Hotel",
+      "price": 10000,
+      "description": "Lets Shine together! ",
+      "star": "5",
+      "location": "Antalya",
+      "imageUrl": "https://cdng.jollytur.com/files/cms/media/hotel/738192c9-8ea3-42da-84d8-8a4dea09eee1-600.jpg"
+    }
+  ],
+  "select": []
+}
